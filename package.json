@@ -1,0 +1,23 @@
+{
+  "name": "@aaaz/prettier-config",
+  "version": "1.0.0",
+  "description": "Andy's sharable prettier config for his projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andyaaz/eslint-config-az.git"
+  },
+  "author": "Andy An zheng.a@yahoo.com",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version",
+    "release:remote": "standard-version && git push --follow-tags origin master"
+  },
+  "devDependencies": {
+    "standard-version": "^8.0.2"
+  }
+}
