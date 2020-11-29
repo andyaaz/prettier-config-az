@@ -21,6 +21,6 @@
     "standard-version": "^8.0.2"
   },
   "peerDependencies": {
-    "pretter": "^2.0.5"
+    "prettier": "^2.0.5"
   }
 }
