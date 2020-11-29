@@ -1,6 +1,6 @@
 {
   "name": "@aaaz/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Andy's sharable prettier config for his projects",
   "main": "index.json",
   "repository": {
