@@ -1,6 +1,6 @@
 {
   "name": "@aaaz/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Andy's sharable prettier config for his projects",
   "main": "index.json",
   "repository": {
@@ -20,7 +20,7 @@
   "devDependencies": {
     "standard-version": "^8.0.2"
   },
-  "peerDependencies":{
+  "peerDependencies": {
     "pretter": "^2.0.5"
   }
 }
