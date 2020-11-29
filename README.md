@@ -18,3 +18,5 @@ $ yarn add --dev @aaaz/prettier-config
   "prettier": "@aaaz/prettier-config"
 }
 ```
+
+**Also don't forget to install peerDependencies (pretter)**
